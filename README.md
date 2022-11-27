@@ -21,6 +21,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+![Snake animation](https://github.com/josegonzalezmonroy/josegonzalezmonroy/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=josegonzalezmonroy&icon=0&color=0)](https://visitcount.itsvg.in)
 
