@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Jose</h1>
-<h3 align="center">Um desenvolvedor backend Java</h3>
+<h3 align="center">Um desenvolvedor Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josegonzalezmonroy&label=Profile%20views&color=0e75b6&style=flat" alt="josegonzalezmonroy" /> </p>
 
